@@ -1,0 +1,78 @@
+package Nandhini;
+//prog1
+
+public class Main{
+	public static void main(String[]args) {
+	//	System.out.println("hello java");
+	//}
+
+//}
+
+//		opreators
+		
+//prog2
+
+//public class Main{
+//   public static void main (String[]args) {	
+
+//  int a=23456;
+//  int b=a/10;
+// int c=a/100;
+// int d=a/1000;
+//   System.out.println(b);
+//   System.out.println(c);
+//   System.out.println(d);
+ 
+
+
+//prog3
+
+//public class Main{
+//  public static void main (String[]args) {	
+//	 int a=12855;
+//	  int b=a/100;
+//	   System.out.println(b%10);
+//   }
+//}
+
+ //prog4
+ 
+//public class Main{
+//   public static void main (String[]args) {	
+//	   int a=54632;
+//	   int b=a/100;
+//	   int c=b%10;
+//	   System.out.println(c*c);
+//	   
+  // }
+//}
+		
+//  prog5 
+
+//int a=123;
+//int b=a%100;
+//System.out.println(b);
+//
+  }}
+
+//prog6
+
+//int a=5;
+//int b=10;
+//a=a^b;
+//b=a^b;
+//a=a^b;
+//System.out.println(a);
+//System.out.println(b);
+//
+//}
+//
+//}
+
+
+
+
+
+
+
+
