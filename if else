@@ -1,0 +1,182 @@
+package Nandhini;
+
+import java.util.Scanner;
+
+public class First {
+
+	public static void main(String[] args) {
+
+		
+//	 if else
+
+//		prog1
+		
+//		int l=4;
+//		int b=6;
+//		if(l>=b)
+//		{
+//			System.out.println("Square");
+//		}
+//		else
+//		{
+//			System.out.println("Rectangle");
+//		}
+//	}
+//}
+		
+//prog2
+
+//		int a=7;
+//		int b=a*a;
+//		if(b>50)
+//		{
+//			System.out.println("above 50");
+//		}
+//		else
+//		{
+//			System.out.println("below 50");
+//		}
+//	}}
+
+//prog3
+		
+//		int a=20;
+//		int b=20;
+//		int c=a-b;
+//		if(c==0)
+//		{
+//			System.out.println("zero");
+//		}
+//		else
+//		{
+//			System.out.println("not");
+//		}
+//	}}
+
+//prog4
+		
+//		int student=77;
+//		if(student>50)
+//		{
+//			System.out.println("pass");
+//		}
+//		else
+//		{
+//			System.out.println("Fail");
+//		}
+//	}}
+
+//prog5
+		
+//		int a=57;
+//		if(a%10==0)
+//		{
+//			System.out.println("divisible");
+//		}
+//		else
+//		{
+//			System.out.println("not divisible");
+//		}
+//	}}
+
+//prog6
+		
+//		int a=46;
+//		int b=a%10;
+//		int c=a/10;
+//		if(b>c)
+//		{
+//			System.out.println("Biggest digit");
+//		}
+//
+//		else
+//		{
+//			System.out.println("Smallest digit");
+//			
+//		}
+
+
+//	prog7	
+	
+		
+//		int a=1007;
+//		int b=a%100;
+//		if(b%10==0 || b%7==0)
+//		{
+//			System.out.println("Buzz number");
+//		}
+//		else
+//		{
+//			System.out.println("Not buzz number");
+//		}
+		
+//prog7
+		
+//		char x='a';
+//		if(x=='a'|| x=='e' || x=='i' || x=='o' || x=='u')
+//		{
+//			System.out.println("Vowel");
+//		}
+//		else
+//		{
+//			System.out.println("Constant");
+//		}
+		
+//	prog8	
+
+//	Scanner sc=new Scanner(System.in);
+//	System.out.println("Enter a number...");
+//	int a=sc.nextInt();
+//		if(a==1)
+//		{
+//			System.out.println("You can go out and play");
+//		}
+//		else
+//		{
+//			System.out.println("You cannot go out and play");
+//		}
+//	
+		
+		
+//	prog9	
+		
+//	Scanner sc=new Scanner(System.in);
+//	System.out.println("Enter a number...");
+//     int a=sc.nextInt();
+//		if(a==1)
+//		{
+//			System.out.println("The exam will be easy ");
+//		}
+//		else
+//		{
+//			System.out.println("The exam will be difficult ");
+//		}
+		
+
+		
+		
+//Scanner sc=new Scanner(System.in);		 
+//int n=sc.nextInt();
+//int even=0;
+//int odd=0;
+//System.out.println("Enter a number..");
+//for(int i=1;i<=n;i++)
+//{
+//	int a =sc.nextInt();
+//	if(a%2==0) {
+//		even +=a;
+//	}
+//	else {
+//		odd +=a;
+//	}
+//	System.out.println("sum of even integer"+ even);
+//	System.out.println("sum of odd integer" +odd);
+//				
+//				
+//	}
+//}
+//	
+	
+		
+		
+//for(char a='a';a<='z';a++)
